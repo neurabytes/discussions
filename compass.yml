@@ -1,0 +1,13 @@
+name: discussions
+id: ari:cloud:compass:d7a6c568-0b4f-4b12-aa39-555f70febc24:component/2c0b9004-3ba7-4605-81c6-f4cb7ab59730/3a39a835-5279-4f3a-ae53-11d807af99b6
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
